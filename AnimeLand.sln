@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeLand.Server", "AnimeLand.Server\AnimeLand.Server.csproj", "{55B2960A-FEFE-4E6D-B7B0-A45B4246B2C3}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "animeland.client", "animeland.client\animeland.client.esproj", "{9F72E234-7710-43E0-9D74-1F03F43507CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B2960A-FEFE-4E6D-B7B0-A45B4246B2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B2960A-FEFE-4E6D-B7B0-A45B4246B2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B2960A-FEFE-4E6D-B7B0-A45B4246B2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B2960A-FEFE-4E6D-B7B0-A45B4246B2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F72E234-7710-43E0-9D74-1F03F43507CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F72E234-7710-43E0-9D74-1F03F43507CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F72E234-7710-43E0-9D74-1F03F43507CF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F72E234-7710-43E0-9D74-1F03F43507CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F72E234-7710-43E0-9D74-1F03F43507CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F72E234-7710-43E0-9D74-1F03F43507CF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE60D4E2-05D6-4C1C-B067-FDFF8F7C77B0}
+	EndGlobalSection
+EndGlobal
